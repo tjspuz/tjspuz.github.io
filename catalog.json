@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2025-09-01T18:42:00Z",
+  "version": 2,
+  "updatedAt": "2025-09-01",
 
   "items": {
     "milk": "Dairy",
@@ -19,11 +19,13 @@
     "salmon fillet": "Meat & Seafood",
     "chicken thighs": "Meat & Seafood",
 
+    "red baron pizza": "Beverages",
     "cola": "Beverages",
     "sparkling water": "Beverages",
     "orange juice": "Beverages",
 
     "Xyz froze": "Frozen",
+    "Test2 froze": "Frozen",
     "frozen pizza": "Frozen",
     "ice cream": "Frozen",
 
