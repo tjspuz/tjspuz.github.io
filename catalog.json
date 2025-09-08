@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "updatedAt": "2025-09-01T18:42:00Z",
+
+  "items": {
+    "milk": "Dairy",
+    "eggs": "Dairy",
+    "cheddar cheese": "Dairy",
+
+    "arugula": "Produce",
+    "roma tomatoes": "Produce",
+    "bananas": "Produce",
+
+    "olive oil": "Pantry",
+    "canned black beans": "Pantry",
+    "granola bars": "Pantry",
+
+    "ground beef": "Meat & Seafood",
+    "salmon fillet": "Meat & Seafood",
+    "chicken thighs": "Meat & Seafood",
+
+    "cola": "Beverages",
+    "sparkling water": "Beverages",
+    "orange juice": "Beverages",
+
+    "Xyz froze": "Frozen",
+    "frozen pizza": "Frozen",
+    "ice cream": "Frozen",
+
+    "multivitamin": "Wellness",
+    "ibuprofen": "Wellness",
+
+    "paper towels": "Household",
+    "dish soap": "Household"
+  },
+
+  "aliases": {
+    "soda": ["pop", "soft drink"],
+    "ground beef": ["minced beef", "hamburger meat"],
+    "bell pepper": ["capsicum"],
+    "garbanzo beans": ["chickpeas"],
+    "spring mix": ["mixed greens"],
+    "cola": ["coke"]
+  }
+}
