@@ -1,57 +1,47 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2025-09-01",
-  "categories": {
-    "Dairy": [
-      "test milk",
-      "eggs",
-      "cheddar cheese"
-    ],
-    "Produce": [
-      "test arugula",
-      "roma tomatoes",
-      "bananas"
-    ],
-    "Pantry": [
-      "test olive oil",
-      "canned black beans",
-      "granola bars"
-    ],
-    "Meat & Seafood": [
-      "test ground beef",
-      "salmon fillet",
-      "chicken thighs"
-    ],
-    "Beverages": [
-      "test red baron pizza",
-      "cola",
-      "sparkling water",
-      "orange juice"
-    ],
-    "Frozen": [
-      "Xyz froze",
-      "Test2 froze",
-      "frozen pizza",
-      "test ice cream"
-    ],
-    "Wellness": [
-      "test multivitamin",
-      "ibuprofen"
-    ],
-    "Household": [
-      "paper towels",
-      "dish soap",
-      "test house"
-    ]
+
+  "items": {
+    "test milk": "Dairy",
+    "eggs": "Dairy",
+    "cheddar cheese": "Dairy",
+
+    "test arugula": "Produce",
+    "roma tomatoes": "Produce",
+    "bananas": "Produce",
+
+    "test olive oil": "Pantry",
+    "canned black beans": "Pantry",
+    "granola bars": "Pantry",
+
+    "ground beef": "Meat & Seafood",
+    "salmon fillet": "Meat & Seafood",
+    "chicken thighs": "Meat & Seafood",
+
+    "red baron pizza": "Beverages",
+    "cola": "Beverages",
+    "sparkling water": "Beverages",
+    "orange juice": "Beverages",
+
+    "Xyz froze": "Frozen",
+    "Test2 froze": "Frozen",
+    "frozen pizza": "Frozen",
+    "ice cream": "Frozen",
+
+    "multivitamin": "Wellness",
+    "ibuprofen": "Wellness",
+
+    "paper towels": "Household",
+    "dish soap": "Household"
   },
+
   "aliases": {
-    "coke": "cola",
-    "pop": "cola",
-    "soft drink": "cola",
-    "minced beef": "ground beef",
-    "hamburger meat": "ground beef",
-    "capsicum": "bell pepper",
-    "garbanzo beans": "chickpeas",
-    "spring mix": "mixed greens"
+    "soda": ["pop", "soft drink"],
+    "ground beef": ["minced beef", "hamburger meat"],
+    "bell pepper": ["capsicum"],
+    "garbanzo beans": ["chickpeas"],
+    "spring mix": ["mixed greens"],
+    "cola": ["coke"]
   }
 }
