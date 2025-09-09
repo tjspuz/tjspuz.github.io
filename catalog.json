@@ -1,7 +1,6 @@
 {
   "version": 2,
   "updatedAt": "2025-09-01",
-
   "categories": {
     "Dairy": [
       "test milk",
@@ -24,7 +23,7 @@
       "chicken thighs"
     ],
     "Beverages": [
-      "test red baron pizza",      // example override (will map to Beverages)
+      "test red baron pizza",
       "cola",
       "sparkling water",
       "orange juice"
@@ -43,19 +42,14 @@
       "paper towels",
       "dish soap",
       "test house"
-
     ]
   },
-
   "aliases": {
-    // alias -> canonical item (string OR array is fine)
     "coke": "cola",
     "pop": "cola",
     "soft drink": "cola",
-
     "minced beef": "ground beef",
     "hamburger meat": "ground beef",
-
     "capsicum": "bell pepper",
     "garbanzo beans": "chickpeas",
     "spring mix": "mixed greens"
