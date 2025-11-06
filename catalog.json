@@ -16,8 +16,9 @@
     "canned black beans": "Pantry",
     "granola bars": "Pantry",
 
-    "ground beef": "Meat & Seafood",
-    "salmon fillet": "Meat & Seafood",
+    "Zebra": "Protein", 
+    "ground beef": "Protein",
+    "salmon fillet": "ABC123",
     "chicken thighs": "Meat & Seafood",
 
     "red baron pizza": "Beverages",
