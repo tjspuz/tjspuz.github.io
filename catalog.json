@@ -1,43 +1,55 @@
 {
   "version": 3,
   "updatedAt": "2025-09-01",
-
-  "items": {
-    "test milk": "Dairy",
-    "test 0910": "Dairy",
-    "eggs": "Dairy",
-    "cheddar cheese": "Dairy",
-
-    "test arugula": "Produce",
-    "roma tomatoes": "Produce",
-    "bananas": "Produce",
-
-    "test olive oil": "Pantry",
-    "canned black beans": "Pantry",
-    "granola bars": "Pantry",
-
-    "Zebra": "Protein", 
-    "ground beef": "Protein",
-    "salmon fillet": "ABC123",
-    "chicken thighs": "Meat & Seafood",
-
-    "red baron pizza": "Beverages",
-    "cola": "Beverages",
-    "sparkling water": "Beverages",
-    "orange juice": "Beverages",
-
-    "Xyz froze": "Frozen",
-    "Test2 froze": "Frozen",
-    "frozen pizza": "Frozen",
-    "ice cream": "Frozen",
-
-    "multivitamin": "Wellness",
-    "ibuprofen": "Wellness",
-
-    "paper towels": "Household",
-    "dish soap": "Household"
+  "categories": {
+    "Dairy": [
+      "test milk",
+      "test 0910",
+      "eggs",
+      "cheddar cheese"
+    ],
+    "Produce": [
+      "produce test new",
+      "test arugula",
+      "roma tomatoes",
+      "bananas"
+    ],
+    "Pantry": [
+      "test olive oil",
+      "canned black beans",
+      "granola bars"
+    ],
+    "Protein": [
+      "Zebra",
+      "ground beef"
+    ],
+    "ABC123": [
+      "salmon fillet"
+    ],
+    "Meat & Seafood": [
+      "chicken thighs"
+    ],
+    "Beverages": [
+      "red baron pizza",
+      "cola",
+      "sparkling water",
+      "orange juice"
+    ],
+    "Frozen": [
+      "Xyz froze",
+      "Test2 froze",
+      "frozen pizza",
+      "ice cream"
+    ],
+    "Wellness": [
+      "multivitamin",
+      "ibuprofen"
+    ],
+    "Household": [
+      "paper towels",
+      "dish soap"
+    ]
   },
-
   "aliases": {
     "soda": ["pop", "soft drink"],
     "ground beef": ["minced beef", "hamburger meat"],
