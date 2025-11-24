@@ -2,7 +2,7 @@
 
 **Effective date:** 2025-11-24
 
-**Developer:** TJ Spuzello
+**Developer:** TJ Spuzello  
 **App:** Sift  
 **Contact:** x.com/sifapp
 
