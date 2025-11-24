@@ -3,51 +3,22 @@
   "updatedAt": "2025-09-01",
   "categories": {
     "Dairy": [
-      "test milk",
-      "test 0910",
-      "eggs",
-      "cheddar cheese"
     ],
     "Produce": [
-      "produce test new",
-      "test arugula",
-      "roma tomatoes",
-      "bananas"
     ],
     "Pantry": [
-      "test olive oil",
-      "canned black beans",
-      "granola bars"
     ],
     "Protein": [
-      "Zebra",
-      "ground beef"
-    ],
-    "ABC123": [
-      "salmon fillet"
-    ],
-    "Meat & Seafood": [
-      "chicken thighs"
     ],
     "Beverages": [
-      "red baron pizza",
-      "cola",
-      "sparkling water",
-      "orange juice"
     ],
     "Frozen": [
-      "Xyz froze",
-      "Test2 froze",
-      "frozen pizza",
-      "ice cream"
     ],
     "Wellness": [
-      "multivitamin",
-      "ibuprofen"
     ],
     "Household": [
-      "paper towels",
-      "dish soap"
+      "TJ test",
+      "TJ test 2"
     ]
   },
   "aliases": {
