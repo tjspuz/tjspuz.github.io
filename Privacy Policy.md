@@ -1,11 +1,10 @@
 # Privacy Policy — Sift
 
-**Effective date:** [YYYY-MM-DD]
+**Effective date:** 2025-11-24
 
-**Developer:** [Your Developer/Legal Name]  
+**Developer:** TJ Spuzello
 **App:** Sift  
-**Contact:** [contact@example.com]  
-**Address:** [Your Company Address] (optional)
+**Contact:** x.com/sifapp
 
 ## Summary
 Sift stores grocery lists that you create in your personal iCloud account using Apple CloudKit. Sift does not collect personal information for analytics, advertising, or third-party sharing. No data collected by Sift is transmitted to external parties beyond Apple’s iCloud service used to store your lists.
