@@ -26,13 +26,13 @@ Sift stores grocery lists that you create in your personal iCloud account using 
 - We do not implement additional end-to-end encryption beyond the protections provided by Apple’s iCloud/CloudKit service.
 
 ## Who is responsible (data controller)
-- **Developer / Controller:** [Your Developer/Legal Name] ([contact@example.com]) is the controller of user data for Sift, to the extent required by applicable law. Apple acts as the data processor for data stored in iCloud/CloudKit.
+- **Developer / Controller:** TJ Spuzello ([tj@spuz.dev) is the controller of user data for Sift, to the extent required by applicable law. Apple acts as the data processor for data stored in iCloud/CloudKit.
 
 ## International distribution and data protection
-- Sift is distributed in [United States]. If you download or use Sift from other countries, your information may be transferred to, stored, and processed in the United States or by Apple locations as required to provide iCloud services.
+- Sift is distributed in the USA. If you download or use Sift from other countries, your information may be transferred to, stored, and processed in the United States or by Apple locations as required to provide iCloud services.
 
 ## Children
-- Sift is intended for adult use and not directed to children under applicable age thresholds (for example, under 13 in the United States). If you believe a child under the appropriate age has provided personal data to Sift, please contact us at [contact@example.com].
+- Sift is intended for adult use and not directed to children under applicable age thresholds (for example, under 13 in the United States). If you believe a child under the appropriate age has provided personal data to Sift, please contact us at tj@spuz.dev.
 
 ## Your rights and choices
 Depending on where you live, you may have rights regarding your personal data, including:
@@ -40,7 +40,7 @@ Depending on where you live, you may have rights regarding your personal data, i
 - Ask for corrections or deletion of your data (note: deletion will remove data from your iCloud/CloudKit records).
 - Object to or restrict processing where applicable.
 
-To exercise rights, email us at [contact@example.com]. We will respond according to applicable law.
+To exercise rights, email us at tj@spuz.dev. We will respond according to applicable law.
 
 ## Opt-outs and app-level controls
 - Sift does not perform behavioral tracking or targeted advertising. There are no in-app controls required for tracking.
