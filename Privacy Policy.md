@@ -53,5 +53,5 @@ To exercise rights, email us at tj@spuz.dev. We will respond according to applic
 We may update this policy from time to time. We will post the revised policy at this same URL with an updated effective date.
 
 ## Contact
-If you have questions or requests about your data, contact: [contact@example.com].
+If you have questions or requests about your data, contact: tj@spuz.dev.
 
